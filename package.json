@@ -1,0 +1,14 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "Package creation test",
+  "main": "index.js",
+  "scripts": {
+    "test": "testCmd"
+  },
+  "keywords": [
+    "HarishKeyword"
+  ],
+  "author": "Harish",
+  "license": "ISC"
+}
